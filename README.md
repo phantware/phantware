@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m Microsoft Dynamics Business Central/NAV Functional Consultant |React | Nodejs Developer
+- 🔭 I’m a Microsoft Dynamics Business Central/NAV Functional Consultant | React Developer | Nodejs Developer
 
-- 🌱 I tried to update myself on the new technologies in town🤣
+- 🌱 I tried to update myself on all new technologies in town🤣
 
 - 🤔 I’m looking for **Remote jobs related to my skillset**
 
@@ -17,7 +17,7 @@
 
 - 🥅 Goals: Contribute more to Open Source projects
 
-- ⚡ Fun fact: I love to play swimming all and gisting
+- ⚡ Fun fact: I love swimming and gisting
 
 ## 🚀 Languages and Tools:
 

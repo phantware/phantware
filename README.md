@@ -66,8 +66,8 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/unekwe-francis-56485b1ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/FrancisUnekwe"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/jamiu-babatunde-ismail/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/IsmailJamiuBab1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 

@@ -13,7 +13,7 @@
 
 - 💬 Ask me about anything Microsoft ERP and programming, I would be glad to answer you.
 
-- 📫 How to reach me **How to reach me **phantmoney2011@gmail.com****
+- 📫 **How to reach me **phantmoney2011@gmail.com****
 
 - 🥅 Goals: Contribute more to Open Source projects
 

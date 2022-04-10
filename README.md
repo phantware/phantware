@@ -1,17 +1,17 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jamiu</h1>
-<h3 align="center">I'm a fast rising Software Developer</h3>
+<h3 align="center">I'm a fast rising Software Engineer</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a Microsoft Dynamics Business Central/NAV Functional Consultant | React Developer | Nodejs Developer
+- 🔭 I’m a Front End Developer | Microsoft Dynamics 365 Business Central/NAV Functional Consultant
 
 - 🌱 I tried to update myself on all new technologies in town🤣
 
 - 🤔 I’m looking for **Remote jobs related to my skillset**
 
-- 💬 Ask me about anything Microsoft ERP and programming, I would be glad to answer you.
+- 💬 Ask me about anything Front End Development, I would be glad to answer you.
 
 - 📫 **How to reach me **phantmoney2011@gmail.com****
 

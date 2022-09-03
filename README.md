@@ -1,7 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://res.cloudinary.com/phantware-nigeria/image/upload/v1662225045/phantware-readme2.png" height="175px"/></a>
-
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jamiu</h1>
+<h1 align="center">Hi there👋, I'm Jamiu</h1>
 <h3 align="center">I'm a fast rising Software Engineer</h3>
 
 ## 🙋‍♂️ About Me
@@ -43,6 +41,7 @@
  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/> </a>
 
 </p>
+<br/>
 <br/>
 <br/>
 ## 📊 My Stats on Github

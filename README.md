@@ -22,7 +22,6 @@
 
 ## 🚀 Languages and Tools:
 <br/>
-<br/>
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -43,7 +42,7 @@
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/> </a>
 
 </p>
-
+<br/>
 ## 📊 My Stats on Github
     <a href="https://github.com/phantware/github-readme-stats"><img alt="Francis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=phantware&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/phantware/github-readme-stats"><img alt="Francis' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantware&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>

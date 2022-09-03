@@ -21,7 +21,8 @@
 - ⚡ Fun fact: I love swimming and gisting
 
 ## 🚀 Languages and Tools:
-
+<br/>
+<br/>
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -42,6 +43,7 @@
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/> </a>
 
 </p>
+<br/>
 <br/>
 
 ## 📊 My Stats on Github

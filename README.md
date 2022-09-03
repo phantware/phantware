@@ -1,4 +1,3 @@
-//<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <a href="#"><img width="100%" height="auto" src="https://res.cloudinary.com/phantware-nigeria/image/upload/v1662224854/phantware-readme.png" height="175px"/></a>
 
 
